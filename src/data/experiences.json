@@ -1,0 +1,24 @@
+[
+  {
+    "role": "Freelancer",
+    "organization": "LC",
+    "startDate": "Aug, 2021",
+    "endDate": "Present",
+    "actions": [
+      "Created custom bots for Web3 applications",
+      "Developed bots for automating betting websites, including bet placement, odds monitoring, and strategy execution"
+    ],
+    "imgSrc": "experiences/freelance.png"
+  },
+  {
+    "role": "Software Engineer",
+    "organization": "Alphatrade Capital",
+    "startDate": "Dec, 2022",
+    "endDate": "May, 2023",
+    "actions": [
+      "Developed high-performance code to scrape data from multiple crypto exchanges",
+      "Implemented efficient data extraction algorithms to collect orderbook, tickers, and volume data"
+    ],
+    "imgSrc": "experiences/alphatrade.jpeg"
+  }
+]

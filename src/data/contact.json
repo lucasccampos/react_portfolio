@@ -1,0 +1,25 @@
+{
+    "message": "Feel free to reach out!",
+    "links" : [
+        {
+            "title":"Github",
+            "imageSrc":"contact/githubIcon.png",
+            "href":"https://github.com/lucasccampos"
+        },
+        {
+            "title":"Discord",
+            "imageSrc":"contact/discordIcon.png",
+            "href":"https://discordapp.com/users/227865841536860160"
+        },
+        {
+            "title":"Linkedin",
+            "imageSrc":"contact/linkedinIcon.png",
+            "href":"https://linkedin.com/in/lucasccavalcanti"
+        },
+        {
+            "title":"lcmc@cin.ufpe.br",
+            "imageSrc":"contact/emailIcon.png",
+            "href":"mailto:lcmc@cin.ufpe.br"
+        }
+    ]
+}

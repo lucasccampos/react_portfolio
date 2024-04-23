@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Rust",
+    "imgSrc": "skills/rust.png"
+  },
+  {
+    "title": "Python",
+    "imgSrc": "skills/python.png"
+  },
+  {
+    "title": "Javascript",
+    "imgSrc": "skills/javascript.png"
+  },
+  {
+    "title": "NodeJS",
+    "imgSrc": "skills/node.png"
+  },
+  {
+    "title": "React",
+    "imgSrc": "skills/react.png"
+  },
+  {
+    "title": "HTML",
+    "imgSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imgSrc": "skills/css.png"
+  },
+  {
+    "title": "Figma",
+    "imgSrc": "skills/figma.png"
+  }
+]

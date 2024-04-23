@@ -1,0 +1,17 @@
+[
+  {
+    "title": "RPA/Bot Developer",
+    "imgSrc": "about/chatbot-icon.png",
+    "description": "I'm passionate about automations and have extensive experience as an RPA/Bot Developer. I've created numerous bots for various applications, including e-commerce stores, web scraping, and betting websites."
+  },
+  {
+    "title": "Web3 Developer",
+    "imgSrc": "about/web-3-icon.png",
+    "description": "I'm deeply fascinated by the world of Web3. As a Web3 Developer, I've delved into the exciting realm of decentralized applications, smart contracts, and blockchain technology."
+  },
+  {
+    "title": "Developer",
+    "imgSrc": "about/dev.png",
+    "description": "Above all, I am a versatile software engineer who can handle a wide range of challenges. With a solid foundation in software development, I possess the adaptability and problem-solving skills needed to tackle any project. "
+  }
+]

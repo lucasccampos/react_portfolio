@@ -1,0 +1,29 @@
+@import "../../vars.css";
+
+
+.container{
+    margin-top: 46px;
+    color: var(--color-text);
+    margin-left: 10%;
+    margin-right: 10%;
+    position: relative;
+}
+
+.title{
+    padding-top: 30px;
+    font-size: 35px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1.75px;
+}
+
+.projects{
+    margin-top: 37px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    width: 100%;
+}
