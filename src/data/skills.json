@@ -16,6 +16,10 @@
     "imgSrc": "skills/node.png"
   },
   {
+    "title": "C#",
+    "imgSrc": "skills/csharp.png"
+  },
+  {
     "title": "React",
     "imgSrc": "skills/react.png"
   },
