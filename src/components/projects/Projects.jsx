@@ -19,14 +19,3 @@ export const Projects = () => {
     </section>
   );
 };
-// .container{}
-
-// .content{}
-
-// .project{}
-
-// .details{}
-
-// .skills{}
-
-// .buttons{}

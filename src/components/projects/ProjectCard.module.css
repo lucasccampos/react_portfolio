@@ -9,12 +9,15 @@
   box-shadow: 0 16px 14px 0 #04152d;
   padding: 18px 24px;
   max-width: 345px;
+  height: 520px;
   border-radius: 15px;
   padding: 25px;
   gap: 10px;
 }
 
 .image {
+  max-height: 200px;
+  max-width: 298px;
   margin-bottom: 26px;
   border-radius: 20px;
 }

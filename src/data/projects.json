@@ -1,26 +1,26 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Pegaxy BOT",
+    "imageSrc": "projects/pegaxy.png",
+    "description": "This was a project for Pegaxy Cryptogame, snipping NFT's.",
+    "skills": ["Python", "Web3", "C#"],
+    "demo": "",
+    "source": ""
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Betting Monitor",
+    "imageSrc": "projects/betting.png",
+    "description": "This was a project to monitor/scrap multiple betting sites.",
+    "skills": ["Python", "Rust"],
+    "demo": "",
+    "source": ""
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "PancakeSwap Prediction",
+    "imageSrc": "projects/pancakeswap.png",
+    "description": "This was a project for PancakeSwap Prediction that place bets following technical strategies.",
+    "skills": ["Python", "Web3", "AI"],
+    "demo": "",
+    "source": ""
   }
 ]
