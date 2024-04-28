@@ -16,6 +16,10 @@
     "imgSrc": "skills/node.png"
   },
   {
+    "title": "PowerBI",
+    "imgSrc": "skills/power-bi.png"
+  },
+  {
     "title": "C#",
     "imgSrc": "skills/csharp.png"
   },
