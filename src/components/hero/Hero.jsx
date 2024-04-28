@@ -8,7 +8,7 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hey, I'm Lucas</h1>
         <p className={styles.description}>
-          The developer ready to tackle your 'thing'—be it a website, backend, automation, web3, or any challenge. Just hand it over, and I'll
+          The developer ready to tackle your project—be it a website, backend, automation, web3, or any challenge. Just hand it over, and I'll
           work my magic. Let's join forces and bring your ideas to life!
         </p>
         <a className={styles.contactBtn} href="#contact">
