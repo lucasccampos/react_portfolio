@@ -61,16 +61,19 @@
 }
 
 .itemIcon {
+    width: 15%;
     max-width: 70px;
 }
 
 .aboutItem h3 {
-    font-size: 25px;
-    font-weight: 600;
+    font-size: 28px;
+    font-weight: 00;
 }
 
 .aboutItem p {
-    font-size: 25px
+    font-size: 24px;
+    font-family: var(--font-roboto);
+    line-height: 130%;
 }
 
 @media screen and (max-width: 830px) {
