@@ -1,17 +1,9 @@
 [
   {
-    "title": "Pegaxy BOT",
-    "imageSrc": "projects/pegaxy.png",
-    "description": "This was a project for Pegaxy Cryptogame, sniping NFT's, and for play automatically.",
-    "skills": ["Python", "Web3", "C#", "Selenium", "Javascript"],
-    "demo": "",
-    "source": ""
-  },
-  {
-    "title": "Betting Monitor",
+    "title": "Sportsbook Monitor",
     "imageSrc": "projects/betting.png",
-    "description": "This was a project to monitor/scrap multiple betting sites.",
-    "skills": ["Python", "Rust"],
+    "description": "This was a project to monitor/scrap multiple sports betting sites, finding value bettings and surebets.",
+    "skills": ["Python", "Rust", "Javascript"],
     "demo": "",
     "source": ""
   },
@@ -20,6 +12,14 @@
     "imageSrc": "projects/pancakeswap.png",
     "description": "This was a project for PancakeSwap Prediction that place bets following technical strategies.",
     "skills": ["Python", "Web3", "AI"],
+    "demo": "",
+    "source": ""
+  },
+  {
+    "title": "Pegaxy BOT",
+    "imageSrc": "projects/pegaxy.png",
+    "description": "This was a project for Pegaxy Cryptogame, sniping NFT's, and for play automatically.",
+    "skills": ["Python", "Web3", "C#", "Selenium", "Javascript"],
     "demo": "",
     "source": ""
   }
