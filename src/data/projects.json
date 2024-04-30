@@ -2,8 +2,8 @@
   {
     "title": "Pegaxy BOT",
     "imageSrc": "projects/pegaxy.png",
-    "description": "This was a project for Pegaxy Cryptogame, sniping NFT's.",
-    "skills": ["Python", "Web3", "C#"],
+    "description": "This was a project for Pegaxy Cryptogame, sniping NFT's, and for play automatically.",
+    "skills": ["Python", "Web3", "C#", "Selenium", "Javascript"],
     "demo": "",
     "source": ""
   },

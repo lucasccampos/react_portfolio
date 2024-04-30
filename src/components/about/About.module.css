@@ -39,7 +39,7 @@
     color: var(--color-text);
     display: flex;
     flex-direction: column;
-    gap: 50px;
+    gap: 25px;
 }
 
 .aboutItem {
@@ -65,12 +65,18 @@
     max-width: 70px;
 }
 
-.aboutItem h3 {
+.aboutItemText {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.aboutItemText h3 {
     font-size: 28px;
     font-weight: 00;
 }
 
-.aboutItem p {
+.aboutItemText p {
     font-size: 24px;
     font-family: var(--font-roboto);
     line-height: 130%;

@@ -62,5 +62,10 @@
         flex-direction: column;
         gap: 36px;
         align-items: center;
+        padding: 58px 5%;
     }
+
+    /* .text h2 {
+        font-size: 500%;
+    } */
 }
