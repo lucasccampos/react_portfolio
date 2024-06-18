@@ -2,6 +2,11 @@
     "message": "Feel free to reach out!",
     "links" : [
         {
+            "title":"Upwork",
+            "imageSrc":"contact/upworkIcon.png",
+            "href":"https://www.upwork.com/freelancers/lcmc"
+        },
+        {
             "title":"Github",
             "imageSrc":"contact/githubIcon.png",
             "href":"https://github.com/lucasccampos"
